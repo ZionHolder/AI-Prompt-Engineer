@@ -20,7 +20,6 @@ the front-end is very minimalistic. This was done intentionally to keep the focu
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Contributing](#contributing)
 * [License](#license)
@@ -71,9 +70,11 @@ NB: Responses are not cleared so if you hit submit for another question, just be
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/ZionHolder/AI-Prompt-Engineer/blob/main/LICENSE) file for details.
 
-## Feedback is Welcomed and Ecnouraged!!
+## Contributing
+### Feedback is Welcomed and Ecnouraged!!
 
 ## Contact
 
 Zion Holder - [LinkedIn](https://www.linkedin.com/in/zionholder/) - zionholdertt@gmail.com
+
 
