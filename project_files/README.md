@@ -48,7 +48,7 @@ NB: Responses are not cleared so if you hit submit for another question, just be
 ### Example Outputs
 
 #### Zero-Shot Prompting Example
-![Zero-Shot Prompting Example](images/Zero-Shot example.png)
+![Zero-Shot Prompting Example](images/Zero-Shot_example.png)
 
 #### One-Shot Prompting Example
 ![One-Shot Prompting Example](images/One-shot.png)
@@ -76,6 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Contact
 
 Zion Holder - [LinkedIn](https://www.linkedin.com/in/zionholder/) - zionholdertt@gmail.com
+
 
 
 
