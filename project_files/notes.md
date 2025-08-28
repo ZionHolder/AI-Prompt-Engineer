@@ -149,7 +149,7 @@ Agents are so cool. Can't wait to start using and building my own processes.
 
 ### 🛠️ What I Built:
 - I built prompt templates, an AI agent, Sequential Chains using the traditional way but also using langchain LCEL.
-- I built a simple chatboy with memory incorating document splitting, retrieval vetors via embeddings, document loaders etc.
+- I built a simple chatbot with memory incorating document splitting, retrieval vetors via embeddings, document loaders etc.
 
 ### 🔑 Key Concepts Practiced:
 - Setting up Chat models using LangChain built-in message types and testing the difrerce between outputs of two models with different temperatures.
