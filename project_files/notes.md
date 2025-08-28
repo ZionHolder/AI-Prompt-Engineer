@@ -174,10 +174,3 @@ Agents are so cool. Can't wait to start using and building my own processes.
 from langchain.tools import tool)
 - Toolkit: Collection of tools eg using a list.
 - Use from langchain.agents import create_react_agent, AgentExecutor. create_react_agent to create the agent and AgentExecutor to manage it. The format for the agent executer must have the tools in it i.e. {tools} && {tool_names} but also: Thought, Action, Action input, Observation then Thought and Final answer. This is the ReAct framework.
-
-### Overview
-
-### Features
----
-
-## 🔁 Reflection & Learnings
