@@ -16,6 +16,12 @@ prompter does not prompt well enough to use AI to it's fullest potential. This m
 prompt better. A lot more can be done and added to this project, however, finishing my certificate is a priority so I must press on the the next. This is also why
 the front-end is very minimalistic. This was done intentionally to keep the focus on the functionality and how nice the UI/UX looks.
 
+Potential Improvements:
+- More can be added to the prompt engineer model's prompt so that the improved query can include context, output formatting and more.
+- An agent can be used to select models to use for output as tools. Each tool/model will have more specific in-depth instructions for each prompting style available.
+- Add CSS to improve the UI and UX.
+- Add memory usage for the models.
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -76,6 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Contact
 
 Zion Holder - [LinkedIn](https://www.linkedin.com/in/zionholder/) - zionholdertt@gmail.com
+
 
 
 
