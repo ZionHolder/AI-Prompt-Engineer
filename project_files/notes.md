@@ -1,4 +1,4 @@
-# Course – 1 Intro to RAG
+# Course – 1 Develop Generative AI Applications: Get Started
 
 Mini-project, notes, and labs for this course.
 
